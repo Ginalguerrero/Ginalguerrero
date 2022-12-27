@@ -9,3 +9,5 @@ and storytelling
 ● Node, ● ES6, ● Object-oriented programming, ● Express, ● MySQL, ● MVC paradigm, ● Sequelize, ● Testing, ● Progressive Web 
 App, ● React, ● NoSQL, ● MERN Stack, ● Computer science 
 fundamentals
+
+![Gina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ginalguerrero&show_icons=true&theme=transparent)
