@@ -1,4 +1,4 @@
-I have recently completed a full time program at UC Berkeley Coding Boot Camp with a certificate as a full stack web engineer.
+I have recently completed a full time program at UC Berkeley Coding Boot Camp with a certificate as a full stack engineer.
 I am trying to expand my knowledge and experience as a developer and a programmer. I am also open to working on projects as a freelancer for web design (front-end or back-end). 
 As a full stack engineer my current skills are:
 
